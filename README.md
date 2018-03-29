@@ -1,5 +1,7 @@
 # C# HMAC library
 
+Coming Soon: Port of this library to .Net Core 2.0
+
 A library written in C# to sign and validate HTTP requests using HMAC.
 
 [Download the source code and .NET 4.5 assemblies.][download_link]
